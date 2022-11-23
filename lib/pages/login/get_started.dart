@@ -244,7 +244,8 @@ class _GetStartedState extends State<GetStarted> {
                                         CrossAxisAlignment.center,
                                     children: [
                                       Text(
-                                        countries[phcode]['dial_code'],
+                                        // countries[phcode]['dial_code'],
+                                        "91",
                                         style: GoogleFonts.roboto(
                                             fontSize: media.width * sixteen,
                                             color: textColor),

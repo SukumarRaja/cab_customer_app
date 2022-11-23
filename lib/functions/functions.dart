@@ -101,7 +101,7 @@ getCurrentLocation() {
 }
 
 //validate email already exist
-
+TextEditingController loginPhone = TextEditingController();
 validateEmail() async {
   dynamic result;
   try {
@@ -205,7 +205,7 @@ List languagesCode = [
 ];
 
 //getting country code
-
+bool isDemo = false;
 List countries = [];
 getCountryCode() async {
   dynamic result;
