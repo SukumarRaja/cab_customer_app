@@ -1,0 +1,71 @@
+{
+  "project_info": {
+    "project_number": "969651379359",
+    "project_id": "shreemcabs-5d1c4",
+    "storage_bucket": "shreemcabs-5d1c4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:969651379359:android:3f876bd28d209915cd56aa",
+        "android_client_info": {
+          "package_name": "hashseven.com.customer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZtc2PoX_HOuehJ9YvWaPvczOAx8w7H9s"
+        },
+        {
+          "current_key": "AIzaSyAzHshUrWZiyQ_Sw180besC3pfzrQY8Ev0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:969651379359:android:a3879462a90d183ecd56aa",
+        "android_client_info": {
+          "package_name": "hashseven.com.driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "969651379359-53go2qgt2o2bcmbn71u0ppdjaum6ggd4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "hashseven.com.driver",
+            "certificate_hash": "497a09921121809d6a4c1ad4df6edc62ec2558b4"
+          }
+        },
+        {
+          "client_id": "969651379359-vptsn1mke55jm34et4idsfbhuklv0a0n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "hashseven.com.driver",
+            "certificate_hash": "e095df5d60256c6df14d364009064776866826d8"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZtc2PoX_HOuehJ9YvWaPvczOAx8w7H9s"
+        },
+        {
+          "current_key": "AIzaSyAzHshUrWZiyQ_Sw180besC3pfzrQY8Ev0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
